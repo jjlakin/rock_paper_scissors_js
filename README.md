@@ -2,6 +2,6 @@
 
 ## Aims
 
-Use a node server with javascript logic.
-Use basic jquery
-Employ basic OOD and TDD
+- Use a node server with javascript logic.
+- Use basic jquery
+- Employ basic OOD and TDD
